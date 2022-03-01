@@ -9,7 +9,7 @@ namespace Sales
 	{
 		static void Main(string[] args)
 		{
-			Console.Write("Enter full path to sales.csv: ");
+			Console.Write("Enter full path to file sales.csv: ");
 			string sourcePath = Console.ReadLine();
 
 			try
